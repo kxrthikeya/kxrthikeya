@@ -1,4 +1,5 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Karthikeya</h1>
+<h1 align="center">Hey  I'm Karthikeya</h1>  
+
 <h3 align="center">Mechanical Engineering Student | 🤖 Robotics & 💻 Software Enthusiast </h3>
 
 <p align="center">
@@ -55,7 +56,7 @@
     <img alt="Discord" title="Discord" height="48" width="48" src="https://cdn.simpleicons.org/discord"></a>
   
  <a href="https://www.linkedin.com/in/karthikeya-bandlaguda-612029248">
-    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
+    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png"></a>
 
 ## 💬 Quote
 > “Every bug is a truth your assumptions tried to hide.”
