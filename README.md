@@ -1,3 +1,6 @@
+<img width="1797" height="218" alt="welcome" src="https://github.com/user-attachments/assets/f092098b-42ac-490b-bbf6-e3df03c9b912" />
+
+
 <img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
 
 <h1 align="center">Hey  I'm Karthikeya</h1>  
