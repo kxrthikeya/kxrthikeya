@@ -1,3 +1,5 @@
+<img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
+
 <h1 align="center">Hey  I'm Karthikeya</h1>  
 
 <h3 align="center">Mechanical Engineering Student | 🤖 Robotics & 💻 Software Enthusiast </h3>
@@ -67,3 +69,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
+</div>
