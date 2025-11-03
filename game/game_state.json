@@ -1,0 +1,10 @@
+{
+    "board": [
+        null, null, null,
+        null, null, null,
+        null, null, null
+    ],
+    "next_player": "X",
+    "status": "in_progress",
+    "moves": []
+}
