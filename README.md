@@ -15,6 +15,20 @@
 
 ## 🧠 My Focus Areas
 - MERN STACK
+### Community Tic-Tac-Toe
+
+**It's X's turn!** Click a square to make your move.
+
+| | | |
+|---|---|---|
+| [ ](https://github.com/kxrthikeya/kxrthikeya/issues/new?title=tic-tac-toe|move|0&body=Just+push+'Submit+new+issue'!) | [ ](https://github.com/kxrthikeya/kxrthikeya/issues/new?title=tic-tac-toe|move|1&body=Just+push+'Submit+new+issue'!) | [ ](https://github.com/kxrthikeya/kxrthikeya/issues/new?title=tic-tac-toe|move|2&body=Just+push+'Submit+new+issue'!) |
+| [ ](https://github.com/kxrthikeya/kxrthikeya/issues/new?title=tic-tac-toe|move|3&body=Just+push+'Submit+new+issue'!) | [ ](https://github.com/kxrthikeya/kxrthikeya/issues/new?title=tic-tac-toe|move|4&body=Just+push+'Submit+new+issue'!) | [ ](https://github.com/kxrthikeya/kxrthikeya/issues/new?title=tic-tac-toe|move|5&body=Just+push+'Submit+new+issue'!) |
+| [ ](https://github.com/kxrthikeya/kxrthikeya/issues/new?title=tic-tac-toe|move|6&body=Just+push+'Submit+new+issue'!) | [ ](https://github.com/kxrthikeya/kxrthikeya/issues/new?title=tic-tac-toe|move|7&body=Just+push+'Submit+new+issue'!) | [ ](https://github.com/kxrthikeya/kxrthikeya/issues/new?title=tic-tac-toe|move|8&body=Just+push+'Submit+new+issue'!) |
+
+### Last Moves
+
+| Player | Move |
+|---|---|
 
 
 ## 📊 GitHub Stats & Trophies
