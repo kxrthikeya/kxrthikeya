@@ -1,1 +1,33 @@
+name: Tic-Tac-Toe Game
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  play-game:
+    if: startsWith(github.event.issue.title, 'tic-tac-toe|move|')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Run Game Logic
+        env:
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          PLAYER: ${{ github.actor }}
+        run: python game/update_game.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md game/game_state.json
+          git commit -m "Update Tic-Tac-Toe game" || exit 0
+          git push
 
