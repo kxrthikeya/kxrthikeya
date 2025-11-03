@@ -6,7 +6,7 @@ on:
 
 jobs:
   play-game:
-    if: startsWith(github.event.issue.title, 'tic-tac-toe|move|')
+    if: startsWith(github.event.issue.title, 'tic-tac-toe') || startsWith(github.event.issue.title, 'move')
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
