@@ -3,9 +3,10 @@
 
 <img src="images/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
 
-<h1 align="center">Hey  I'm Karthikeya</h1>  
+<h1 align="center" style="border-bottom: none;">Hey I'm Karthikeya</h1>
+<h3 align="center" style="font-weight:normal; color:#cdd6f4;">Mechanical Engineering Student</h3>
 
-<h2 align="center">Mechanical Engineering Student </h2>
+
 <h3>Robotics <img src="images/robot.gif"  height="100"  width="100"/> &  <img src="images/codedex-bot-logo-compressed.gif"  height="90"  width="90"/> Software Enthusiast </h3>
   
 <p align="center">
