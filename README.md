@@ -79,7 +79,8 @@
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png"></a>
 
 ## 💬 Quote
-> “Every bug is a truth your assumptions tried to hide.”
+![Catppuccin Mocha Quote](./images/quote.svg)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
