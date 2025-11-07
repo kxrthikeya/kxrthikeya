@@ -1,0 +1,7 @@
+<svg width="700" height="80" viewBox="0 0 700 80" Fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="700" height="80" rx="18" fill="#1e1e2e"/>
+  <rect x="5" y="5" width="690" height="70" rx="14" fill="#181825" stroke="#cba6f7" stroke-width="2"/>
+  <text x="50%" y="53%" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="600" text-anchor="middle" fill="#cdd6f4" style="dominant-baseline: middle;">
+    “Every bug is a truth your assumptions tried to hide.”
+  </text>
+</svg>
