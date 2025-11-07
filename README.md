@@ -47,6 +47,9 @@
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=kxrthikeya&theme=gruvbox&radius=10" alt="kxrthikeya's Activity Graph" />
 </p>
 
+## 🎖️BADGES  
+[![An image of @kxrthikeya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kxrthikeya)](https://holopin.io/@kxrthikeya)
+
 
 ## 🛠️ Languages & Tools
 
