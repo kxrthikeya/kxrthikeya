@@ -17,6 +17,8 @@
 
 ## 🧠 My Focus Areas
 - MERN STACK
+- MACHINE LEARNING
+- AI
 ### Community Tic-Tac-Toe
 
 **It's X's turn!** Click a square to make your move.
