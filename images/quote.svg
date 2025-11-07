@@ -1,0 +1,18 @@
+<svg width="420" height="120" viewBox="0 0 420 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0" y1="0" x2="0" y2="120" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#23272f" />
+      <stop offset="1" stop-color="#f8f8fa" />
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="2" stdDeviation="2" flood-color="#aaa"/>
+    </filter>
+  </defs>
+  <rect width="420" height="120" rx="16" fill="url(#bgGradient)" />
+  <text x="50%" y="50%" dy="-.2em" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#222" text-anchor="middle" filter="url(#shadow)" style="font-weight:600;">
+    “Every bug is a truth your
+  </text>
+  <text x="50%" y="70%" dy="-.2em" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#222" text-anchor="middle" filter="url(#shadow)" style="font-weight:600;">
+    assumptions tried to hide.”
+  </text>
+</svg>
