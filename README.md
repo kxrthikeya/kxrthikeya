@@ -6,7 +6,7 @@
 <h1 align="center">Hey  I'm Karthikeya</h1>  
 
 <h3 align="center">Mechanical Engineering Student | 🤖 Robotics & 💻 Software Enthusiast </h3>
-
+  <img src="images/codedex-bot-logo-compressed.gif"  height="150"  width="150"
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=kxrthikeya">
     <img src="https://komarev.com/ghpvc/?username=kxrthikeya&label=Profile%20views&color=00FFFF&style=flat-square" alt="kxrthikeya's profile views" />
